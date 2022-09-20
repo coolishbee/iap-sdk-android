@@ -1,0 +1,3 @@
+include ':iap-sdk'
+include ':app'
+rootProject.name = "iap-sdk-android"
