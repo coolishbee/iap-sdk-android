@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">iap-sdk-android</string>
+
+    <string name="inapp_purchase_1">인앱 결제 1000</string>
+    <string name="inapp_purchase_2">인앱 결제 2000</string>
+    <string name="inapp_purchase_3">인앱 결제 3000</string>
+
+    <string name="clear">clear</string>
 </resources>
